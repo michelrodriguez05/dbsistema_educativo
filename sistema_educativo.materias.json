@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "689f9444f6a8495366175629"
+  },
+  "nombre_materia": "Matemáticas Básicas",
+  "codigo_materia": "MAT101",
+  "descripcion": "Conceptos fundamentales de matemáticas",
+  "creditos": 3,
+  "id_directivo": {
+    "$oid": "689f9129f6a8495366175619"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a849536617562a"
+  },
+  "nombre_materia": "Lengua Castellana I",
+  "codigo_materia": "LEN101",
+  "descripcion": "Estudio de gramática y redacción básica",
+  "creditos": 3,
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561f"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a849536617562b"
+  },
+  "nombre_materia": "Historia Universal",
+  "codigo_materia": "HIS201",
+  "descripcion": "Principales eventos y procesos históricos del mundo",
+  "creditos": 4,
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561a"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175617"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a849536617562c"
+  },
+  "nombre_materia": "Ciencias Naturales",
+  "codigo_materia": "CNA101",
+  "descripcion": "Introducción a biología, física y química",
+  "creditos": 3,
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561e"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175618"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a849536617562d"
+  },
+  "nombre_materia": "Educación Física",
+  "codigo_materia": "EDF101",
+  "descripcion": "Desarrollo de habilidades motrices y deportivas",
+  "creditos": 2,
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561c"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a849536617562e"
+  },
+  "nombre_materia": "Arte y Creatividad",
+  "codigo_materia": "ART102",
+  "descripcion": "Expresión artística y apreciación cultural",
+  "creditos": 2,
+  "id_directivo": {
+    "$oid": "689f9129f6a8495366175621"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a849536617562f"
+  },
+  "nombre_materia": "Química General",
+  "codigo_materia": "QUI201",
+  "descripcion": "Principios básicos de química y su aplicación",
+  "creditos": 4,
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561e"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175617"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a8495366175630"
+  },
+  "nombre_materia": "Física I",
+  "codigo_materia": "FIS101",
+  "descripcion": "Fundamentos de mecánica y termodinámica",
+  "creditos": 4,
+  "id_directivo": {
+    "$oid": "689f9444f6a8495366175628"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175618"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a8495366175631"
+  },
+  "nombre_materia": "Inglés Básico",
+  "codigo_materia": "ING101",
+  "descripcion": "Comprensión y expresión oral y escrita en inglés",
+  "creditos": 3,
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561f"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9444f6a8495366175632"
+  },
+  "nombre_materia": "Tecnología e Informática",
+  "codigo_materia": "TEC101",
+  "descripcion": "Uso básico de herramientas digitales e internet",
+  "creditos": 3,
+  "id_directivo": {
+    "$oid": "689f9129f6a8495366175619"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+}]

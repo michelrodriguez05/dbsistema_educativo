@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "689f9f42f6a849536617563d"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175606"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175701"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a849536617563e"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175607"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175702"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-21T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a849536617563f"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175608"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175703"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-21T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175640"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175609"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175704"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175641"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a849536617560a"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175705"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175642"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a849536617560b"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175706"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-23T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175643"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a849536617560c"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175707"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-23T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175644"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a849536617560d"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175708"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175645"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a849536617560e"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175709"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175646"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a849536617560f"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175710"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175647"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175610"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175702"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-26T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175648"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175611"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175704"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-26T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a8495366175649"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175612"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175705"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a849536617564a"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175613"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175707"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "689f9f42f6a849536617564b"
+  },
+  "id_estudiante": {
+    "$oid": "689f8dc7f6a8495366175614"
+  },
+  "id_curso": {
+    "$oid": "689f9500f6a8495366175709"
+  },
+  "fecha_inscripcion": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "estado": "Activo"
+}]

@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "689f9129f6a8495366175619"
+  },
+  "nombre": "María",
+  "apellido": "Gómez",
+  "documento": "98765432",
+  "correo": "maria.gomez@example.com",
+  "telefono": "3009876543",
+  "direccion": "Av. Siempre Viva #123",
+  "fecha_ingreso": {
+    "$date": "2020-02-10T00:00:00.000Z"
+  },
+  "tipo": "Profesor",
+  "especialidad": "Matemáticas",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a849536617561a"
+  },
+  "nombre": "Pedro",
+  "apellido": "Ramírez",
+  "documento": "87654321",
+  "correo": "pedro.ramirez@example.com",
+  "telefono": "3018765432",
+  "direccion": "Calle 8 #12-34",
+  "fecha_ingreso": {
+    "$date": "2019-08-05T00:00:00.000Z"
+  },
+  "tipo": "Profesor",
+  "especialidad": "Historia",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a849536617561b"
+  },
+  "nombre": "Laura",
+  "apellido": "Martínez",
+  "documento": "76543210",
+  "correo": "laura.martinez@example.com",
+  "telefono": "3027654321",
+  "direccion": "Carrera 10 #45-67",
+  "fecha_ingreso": {
+    "$date": "2021-03-12T00:00:00.000Z"
+  },
+  "tipo": "Administrativo",
+  "cargo": "Secretaria Académica",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175617"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a849536617561c"
+  },
+  "nombre": "Andrés",
+  "apellido": "Hernández",
+  "documento": "65432109",
+  "correo": "andres.hernandez@example.com",
+  "telefono": "3036543210",
+  "direccion": "Avenida Central #56-78",
+  "fecha_ingreso": {
+    "$date": "2018-07-19T00:00:00.000Z"
+  },
+  "tipo": "Profesor",
+  "especialidad": "Educación Física",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175618"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a849536617561d"
+  },
+  "nombre": "Claudia",
+  "apellido": "Vargas",
+  "documento": "54321098",
+  "correo": "claudia.vargas@example.com",
+  "telefono": "3045432109",
+  "direccion": "Calle 50 #8-14",
+  "fecha_ingreso": {
+    "$date": "2022-01-25T00:00:00.000Z"
+  },
+  "tipo": "Administrativo",
+  "cargo": "Jefe de Recursos Humanos",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a849536617561e"
+  },
+  "nombre": "Jorge",
+  "apellido": "Morales",
+  "documento": "43210987",
+  "correo": "jorge.morales@example.com",
+  "telefono": "3054321098",
+  "direccion": "Carrera 5 #33-22",
+  "fecha_ingreso": {
+    "$date": "2017-11-30T00:00:00.000Z"
+  },
+  "tipo": "Profesor",
+  "especialidad": "Ciencias Naturales",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a849536617561f"
+  },
+  "nombre": "Sofía",
+  "apellido": "Torres",
+  "documento": "32109876",
+  "correo": "sofia.torres@example.com",
+  "telefono": "3063210987",
+  "direccion": "Avenida Norte #12-44",
+  "fecha_ingreso": {
+    "$date": "2016-06-15T00:00:00.000Z"
+  },
+  "tipo": "Profesor",
+  "especialidad": "Lengua Castellana",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175617"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a8495366175620"
+  },
+  "nombre": "Felipe",
+  "apellido": "Castro",
+  "documento": "21098765",
+  "correo": "felipe.castro@example.com",
+  "telefono": "3072109876",
+  "direccion": "Calle Sur #22-55",
+  "fecha_ingreso": {
+    "$date": "2015-04-22T00:00:00.000Z"
+  },
+  "tipo": "Administrativo",
+  "cargo": "Coordinador Académico",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175618"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a8495366175621"
+  },
+  "nombre": "Isabella",
+  "apellido": "Paredes",
+  "documento": "10987654",
+  "correo": "isabella.paredes@example.com",
+  "telefono": "3081098765",
+  "direccion": "Carrera Oriente #7-11",
+  "fecha_ingreso": {
+    "$date": "2023-05-09T00:00:00.000Z"
+  },
+  "tipo": "Profesor",
+  "especialidad": "Arte",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9129f6a8495366175622"
+  },
+  "nombre": "Ricardo",
+  "apellido": "López",
+  "documento": "99887766",
+  "correo": "ricardo.lopez@example.com",
+  "telefono": "3099988776",
+  "direccion": "Avenida Occidental #18-90",
+  "fecha_ingreso": {
+    "$date": "2020-09-03T00:00:00.000Z"
+  },
+  "tipo": "Administrativo",
+  "cargo": "Director Financiero",
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+}]

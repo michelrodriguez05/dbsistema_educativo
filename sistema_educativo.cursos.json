@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "689f96b1f6a8495366175633"
+  },
+  "nombre_curso": "Matemáticas Básicas - Grupo A",
+  "id_materia": {
+    "$oid": "689f9444f6a8495366175629"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a8495366175619"
+  },
+  "aula": "A-101",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175623"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a8495366175634"
+  },
+  "nombre_curso": "Lengua Castellana I - Grupo B",
+  "id_materia": {
+    "$oid": "689f9444f6a849536617562a"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561f"
+  },
+  "aula": "B-202",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175624"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a8495366175635"
+  },
+  "nombre_curso": "Historia Universal - Grupo A",
+  "id_materia": {
+    "$oid": "689f9444f6a849536617562b"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561a"
+  },
+  "aula": "C-303",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175625"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175617"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a8495366175636"
+  },
+  "nombre_curso": "Ciencias Naturales - Grupo C",
+  "id_materia": {
+    "$oid": "689f9444f6a849536617562c"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561e"
+  },
+  "aula": "D-404",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175626"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175618"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a8495366175637"
+  },
+  "nombre_curso": "Educación Física - Grupo A",
+  "id_materia": {
+    "$oid": "689f9444f6a849536617562d"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561c"
+  },
+  "aula": "Gimnasio",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175627"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a8495366175638"
+  },
+  "nombre_curso": "Arte y Creatividad - Grupo A",
+  "id_materia": {
+    "$oid": "689f9444f6a849536617562e"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a8495366175621"
+  },
+  "aula": "Sala de Arte",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175623"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a8495366175639"
+  },
+  "nombre_curso": "Química General - Grupo B",
+  "id_materia": {
+    "$oid": "689f9444f6a849536617562f"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561e"
+  },
+  "aula": "Lab-Q1",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175624"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175617"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a849536617563a"
+  },
+  "nombre_curso": "Física I - Grupo A",
+  "id_materia": {
+    "$oid": "689f9444f6a8495366175630"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561c"
+  },
+  "aula": "Lab-F1",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175625"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175618"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a849536617563b"
+  },
+  "nombre_curso": "Inglés Básico - Grupo C",
+  "id_materia": {
+    "$oid": "689f9444f6a8495366175631"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a849536617561f"
+  },
+  "aula": "B-201",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175626"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175615"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f96b1f6a849536617563c"
+  },
+  "nombre_curso": "Tecnología e Informática - Grupo A",
+  "id_materia": {
+    "$oid": "689f9444f6a8495366175632"
+  },
+  "id_directivo": {
+    "$oid": "689f9129f6a8495366175619"
+  },
+  "aula": "Sala de Cómputo",
+  "periodo": "2025-1",
+  "id_horario": {
+    "$oid": "689f919cf6a8495366175627"
+  },
+  "id_sede": {
+    "$oid": "689f9029f6a8495366175616"
+  }
+}]

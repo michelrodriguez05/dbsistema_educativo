@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175606"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "documento": "12345678",
+  "fecha_nacimiento": {
+    "$date": "2005-03-15T00:00:00.000Z"
+  },
+  "correo": "juan.perez@example.com",
+  "telefono": "3001234567",
+  "direccion": "Calle 10 #5-20",
+  "genero": "Masculino",
+  "fecha_registro": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175607"
+  },
+  "nombre": "María",
+  "apellido": "García",
+  "documento": "23456789",
+  "fecha_nacimiento": {
+    "$date": "2006-07-22T00:00:00.000Z"
+  },
+  "correo": "maria.garcia@example.com",
+  "telefono": "3012345678",
+  "direccion": "Carrera 12 #8-14",
+  "genero": "Femenino",
+  "fecha_registro": {
+    "$date": "2025-01-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175608"
+  },
+  "nombre": "Carlos",
+  "apellido": "Rodríguez",
+  "documento": "34567890",
+  "fecha_nacimiento": {
+    "$date": "2004-11-05T00:00:00.000Z"
+  },
+  "correo": "carlos.rodriguez@example.com",
+  "telefono": "3023456789",
+  "direccion": "Avenida 3 #45-67",
+  "genero": "Masculino",
+  "fecha_registro": {
+    "$date": "2025-01-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175609"
+  },
+  "nombre": "Ana",
+  "apellido": "Martínez",
+  "documento": "45678901",
+  "fecha_nacimiento": {
+    "$date": "2005-05-30T00:00:00.000Z"
+  },
+  "correo": "ana.martinez@example.com",
+  "telefono": "3034567890",
+  "direccion": "Calle 20 #7-33",
+  "genero": "Femenino",
+  "fecha_registro": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a849536617560a"
+  },
+  "nombre": "Luis",
+  "apellido": "Hernández",
+  "documento": "56789012",
+  "fecha_nacimiento": {
+    "$date": "2003-02-12T00:00:00.000Z"
+  },
+  "correo": "luis.hernandez@example.com",
+  "telefono": "3045678901",
+  "direccion": "Carrera 15 #10-25",
+  "genero": "Masculino",
+  "fecha_registro": {
+    "$date": "2025-01-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a849536617560b"
+  },
+  "nombre": "Laura",
+  "apellido": "López",
+  "documento": "67890123",
+  "fecha_nacimiento": {
+    "$date": "2006-08-14T00:00:00.000Z"
+  },
+  "correo": "laura.lopez@example.com",
+  "telefono": "3056789012",
+  "direccion": "Calle 50 #12-40",
+  "genero": "Femenino",
+  "fecha_registro": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a849536617560c"
+  },
+  "nombre": "Andrés",
+  "apellido": "Gómez",
+  "documento": "78901234",
+  "fecha_nacimiento": {
+    "$date": "2004-04-18T00:00:00.000Z"
+  },
+  "correo": "andres.gomez@example.com",
+  "telefono": "3067890123",
+  "direccion": "Carrera 8 #9-22",
+  "genero": "Masculino",
+  "fecha_registro": {
+    "$date": "2025-01-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a849536617560d"
+  },
+  "nombre": "Sofía",
+  "apellido": "Torres",
+  "documento": "89012345",
+  "fecha_nacimiento": {
+    "$date": "2005-10-25T00:00:00.000Z"
+  },
+  "correo": "sofia.torres@example.com",
+  "telefono": "3078901234",
+  "direccion": "Avenida 6 #14-18",
+  "genero": "Femenino",
+  "fecha_registro": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a849536617560e"
+  },
+  "nombre": "Diego",
+  "apellido": "Ramírez",
+  "documento": "90123456",
+  "fecha_nacimiento": {
+    "$date": "2003-09-07T00:00:00.000Z"
+  },
+  "correo": "diego.ramirez@example.com",
+  "telefono": "3089012345",
+  "direccion": "Calle 25 #3-12",
+  "genero": "Masculino",
+  "fecha_registro": {
+    "$date": "2025-01-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a849536617560f"
+  },
+  "nombre": "Valentina",
+  "apellido": "Morales",
+  "documento": "11223344",
+  "fecha_nacimiento": {
+    "$date": "2006-01-02T00:00:00.000Z"
+  },
+  "correo": "valentina.morales@example.com",
+  "telefono": "3090123456",
+  "direccion": "Carrera 21 #6-17",
+  "genero": "Femenino",
+  "fecha_registro": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175610"
+  },
+  "nombre": "Mateo",
+  "apellido": "Castro",
+  "documento": "22334455",
+  "fecha_nacimiento": {
+    "$date": "2004-06-19T00:00:00.000Z"
+  },
+  "correo": "mateo.castro@example.com",
+  "telefono": "3101234567",
+  "direccion": "Avenida 15 #22-09",
+  "genero": "Masculino",
+  "fecha_registro": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175611"
+  },
+  "nombre": "Camila",
+  "apellido": "Jiménez",
+  "documento": "33445566",
+  "fecha_nacimiento": {
+    "$date": "2005-12-11T00:00:00.000Z"
+  },
+  "correo": "camila.jimenez@example.com",
+  "telefono": "3112345678",
+  "direccion": "Calle 12 #18-33",
+  "genero": "Femenino",
+  "fecha_registro": {
+    "$date": "2025-01-26T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175612"
+  },
+  "nombre": "Sebastián",
+  "apellido": "Mendoza",
+  "documento": "44556677",
+  "fecha_nacimiento": {
+    "$date": "2003-03-27T00:00:00.000Z"
+  },
+  "correo": "sebastian.mendoza@example.com",
+  "telefono": "3123456789",
+  "direccion": "Carrera 5 #30-12",
+  "genero": "Masculino",
+  "fecha_registro": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175613"
+  },
+  "nombre": "Isabella",
+  "apellido": "Ortiz",
+  "documento": "55667788",
+  "fecha_nacimiento": {
+    "$date": "2006-09-30T00:00:00.000Z"
+  },
+  "correo": "isabella.ortiz@example.com",
+  "telefono": "3134567890",
+  "direccion": "Avenida 9 #16-20",
+  "genero": "Femenino",
+  "fecha_registro": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f8dc7f6a8495366175614"
+  },
+  "nombre": "Felipe",
+  "apellido": "Vargas",
+  "documento": "66778899",
+  "fecha_nacimiento": {
+    "$date": "2004-05-08T00:00:00.000Z"
+  },
+  "correo": "felipe.vargas@example.com",
+  "telefono": "3145678901",
+  "direccion": "Calle 7 #11-14",
+  "genero": "Masculino",
+  "fecha_registro": {
+    "$date": "2025-01-29T00:00:00.000Z"
+  }
+}]

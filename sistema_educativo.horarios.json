@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "689f919cf6a8495366175623"
+  },
+  "dias": [
+    "Lunes",
+    "Miércoles"
+  ],
+  "hora_inicio": "08:00",
+  "hora_fin": "10:00",
+  "modalidad": "Presencial",
+  "fecha_inicio": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f919cf6a8495366175624"
+  },
+  "dias": [
+    "Martes",
+    "Jueves"
+  ],
+  "hora_inicio": "10:00",
+  "hora_fin": "12:00",
+  "modalidad": "Virtual",
+  "fecha_inicio": {
+    "$date": "2025-02-03T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2025-06-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f919cf6a8495366175625"
+  },
+  "dias": [
+    "Viernes"
+  ],
+  "hora_inicio": "14:00",
+  "hora_fin": "18:00",
+  "modalidad": "Presencial",
+  "fecha_inicio": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f919cf6a8495366175626"
+  },
+  "dias": [
+    "Lunes",
+    "Martes",
+    "Miércoles"
+  ],
+  "hora_inicio": "07:00",
+  "hora_fin": "09:00",
+  "modalidad": "Virtual",
+  "fecha_inicio": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f919cf6a8495366175627"
+  },
+  "dias": [
+    "Sábado"
+  ],
+  "hora_inicio": "08:00",
+  "hora_fin": "12:00",
+  "modalidad": "Presencial",
+  "fecha_inicio": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2025-06-28T00:00:00.000Z"
+  }
+}]

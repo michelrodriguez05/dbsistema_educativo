@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "689f9029f6a8495366175615"
+  },
+  "nombre_sede": "Sede Central",
+  "direccion": "Calle Principal #123",
+  "ciudad": "Bogotá",
+  "telefono": "6015555555",
+  "correo": "contacto@sede.com",
+  "fecha_apertura": {
+    "$date": "2010-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9029f6a8495366175616"
+  },
+  "nombre_sede": "Sede Norte",
+  "direccion": "Avenida 15 #45-60",
+  "ciudad": "Medellín",
+  "telefono": "6045554444",
+  "correo": "norte@sede.com",
+  "fecha_apertura": {
+    "$date": "2012-05-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9029f6a8495366175617"
+  },
+  "nombre_sede": "Sede Sur",
+  "direccion": "Carrera 8 #12-34",
+  "ciudad": "Cali",
+  "telefono": "6025553333",
+  "correo": "sur@sede.com",
+  "fecha_apertura": {
+    "$date": "2015-09-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689f9029f6a8495366175618"
+  },
+  "nombre_sede": "Sede Oriente",
+  "direccion": "Calle 20 #7-55",
+  "ciudad": "Bucaramanga",
+  "telefono": "6075552222",
+  "correo": "oriente@sede.com",
+  "fecha_apertura": {
+    "$date": "2018-03-20T00:00:00.000Z"
+  }
+}]
