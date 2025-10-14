@@ -1,4 +1,4 @@
-# basedb_tematica_libre
+# db sistema educativo
 Esta es una base de datos hecha en Mongodb que representa el sistema educativo de un colegio.
 Incluye colecciones para gestionar estudiantes, cursos, materias, directivos, horarios, inscripciones y sedes.
 
